@@ -1,1 +1,2 @@
 # to-do-list
+This C++ project presents a dynamic To-Do List Management System that allows users to efficiently manage their tasks based on priority levels. With intuitive task addition, removal, and viewing functionalities, users can seamlessly organize their tasks. The project features an easy-to-use console interface, offering flexibility in prioritization and ensuring a smooth user experience. Enhance your task management efficiency with this interactive and user-friendly To-Do List Management System in C++.
